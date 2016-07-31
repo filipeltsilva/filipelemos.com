@@ -1,26 +1,25 @@
 {
-  "name": "Muque",
+  "name": "filipelemos.com",
   "version": "1.0.0",
-  "description": "A boilerplate for front-end projects",
+  "description": "My personal website",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/filipeltsilva/Muque.git"
+    "url": "https://github.com/filipeltsilva/filipelemos.com.git"
   },
   "keywords": [
-    "Muque",
-    "Boilerplate",
-    "Front-end"
+    "Website",
+    "Metalsmith"
   ],
   "author": "Filipe Lemos",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/filipeltsilva/Muque/issues"
+    "url": "https://github.com/filipeltsilva/filipelemos.com/issues"
   },
-  "homepage": "https://github.com/filipeltsilva/Muque#readme",
+  "homepage": "https://github.com/filipeltsilva/filipelemos.com#readme",
   "devDependencies": {
     "browser-sync": "^2.13.0",
     "gulp": "^3.9.1",
