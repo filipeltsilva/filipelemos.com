@@ -4,7 +4,7 @@
   "description": "My personal website",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "metalsmith": "node metalsmith.js"
   },
   "repository": {
     "type": "git",
@@ -42,6 +42,7 @@
     "metalsmith": "^2.3.0",
     "metalsmith-layouts": "^1.8.0",
     "metalsmith-markdown": "^0.2.1",
+    "moment": "^2.17.1",
     "require-dir": "^0.3.0"
   }
 }
