@@ -1,6 +1,6 @@
 {
   "name": "filipelemos.com",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My personal website",
   "main": "gulpfile.js",
   "scripts": {
@@ -37,7 +37,11 @@
     "gulp-sourcemaps": "^1.6.0",
     "gulp-stylus": "^2.4.0",
     "gulp-uglify": "^1.5.3",
+    "handlebars": "^4.0.6",
     "kouto-swiss": "^0.12.0",
+    "metalsmith": "^2.3.0",
+    "metalsmith-layouts": "^1.8.0",
+    "metalsmith-markdown": "^0.2.1",
     "require-dir": "^0.3.0"
   }
 }
