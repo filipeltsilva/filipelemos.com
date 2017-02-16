@@ -1,6 +1,6 @@
 {
   "name": "filipelemos.com",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "My personal website",
   "main": "gulpfile.js",
   "scripts": {
