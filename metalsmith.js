@@ -3,7 +3,6 @@ const markdown = require('metalsmith-markdown');
 const metalsmith = require('metalsmith');
 
 metalsmith('src/')
-  .clean(true)
   .metadata({
     site_name: 'filipelemos.com',
     author: 'Filipe Lemos',

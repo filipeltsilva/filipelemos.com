@@ -4,7 +4,7 @@
   "description": "My personal website",
   "main": "gulpfile.js",
   "scripts": {
-    "metalsmith": "node metalsmith.js"
+    "build": "node metalsmith.js && gulp build"
   },
   "repository": {
     "type": "git",
